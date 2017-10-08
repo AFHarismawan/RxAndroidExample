@@ -3,7 +3,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context="com.harismawan.rxandroidexample.ui.MainActivity">
+    tools:context="com.harismawan.rxandroidexample.MainActivity">
 
     <TextView
         android:id="@+id/output"
